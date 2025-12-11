@@ -20,7 +20,7 @@
 &lt;li&gt;&lt;strong&gt;注册 GitHub 账号&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;安装 Git&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Windows：https://git-scm.com/download/win&lt;/li&gt;
+&lt;li&gt;Windows：&lt;a href=&#34;https://git-scm.com/download/win&#34;&gt;git download&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;安装 Hugo Extended 版&lt;/strong&gt;
@@ -104,7 +104,7 @@
 &lt;p&gt;&lt;strong&gt;创建测试文章&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>关于</title>
+      <title>about</title>
       <link>https://dengjzy.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dengjzy.github.io/about/</guid>
@@ -121,7 +121,7 @@
 &lt;a href=&#34;jzy2410723051@163.com&#34;&gt;Email&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>分类</title>
+      <title>categories</title>
       <link>https://dengjzy.github.io/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dengjzy.github.io/categories/</guid>

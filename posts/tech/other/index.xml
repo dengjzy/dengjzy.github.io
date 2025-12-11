@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>其他技术 on Jzy&#39;s Blog</title>
+    <title>other on Jzy&#39;s Blog</title>
     <link>https://dengjzy.github.io/posts/tech/other/</link>
-    <description>Recent content in 其他技术 on Jzy&#39;s Blog</description>
+    <description>Recent content in other on Jzy&#39;s Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
     <copyright>JZY Deng</copyright>
@@ -20,7 +20,7 @@
 &lt;li&gt;&lt;strong&gt;注册 GitHub 账号&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;安装 Git&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Windows：https://git-scm.com/download/win&lt;/li&gt;
+&lt;li&gt;Windows：&lt;a href=&#34;https://git-scm.com/download/win&#34;&gt;git download&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;安装 Hugo Extended 版&lt;/strong&gt;
